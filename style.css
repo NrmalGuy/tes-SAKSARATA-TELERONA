@@ -41,3 +41,7 @@ nav ul li a {
     background: #ffcc00;
     color: #333;
 }
+/* Logo Styling */
+.logo img {
+    height: 50px; /* Adjust height as needed */
+}
